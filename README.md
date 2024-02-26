@@ -1,6 +1,6 @@
 # safe-button
 
-https://cdn.dribbble.com/userupload/4169642/file/original-3a28ace89320d36799e1ea3a46b08b3f.jpg?resize=2048x1536
+https://codepen.io/GreenSock/pen/ALvYEO
 
 ## Project Setup
 
